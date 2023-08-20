@@ -1,0 +1,15 @@
+Q1. What are some of the disadvantages of using OOPs?
+Q2. Polymorphism and its categories with examples.
+Q3. Difference between deadlock and starvation, how to detect and prevent them.
+Q4. Normalisation and why is it useful.
+Q5. Functional dependency, explain with an example.
+Q6. Insertion, deletion, and updation time complexity in unordered_map and ordered_map and the reason why is it so.
+Q7. How can you store user passwords in your application in a database or is it a good idea to save a user’s password?
+Q8. What does ‘s’ in OOPs stands for?
+Q9. What is a database and database management system and why it is preferred over traditional file management systems?
+Q10. SQL query as per the conditions given by the interviewer.
+Q11. Difference between function overloading and overriding.
+Q12. What is the difference between a list and a vector
+Q13. When to use a list and when to use a vector?
+Q14. Complexity for insertion in list and vector.
+Q15. How to convert BT to BST.
